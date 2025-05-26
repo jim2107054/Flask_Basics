@@ -1,1 +1,3 @@
-Whenever we import something, we are basically execute its code modules.
+1. Whenever we import something, we are basically execute its code modules.
+2. In path parameters we will add as many parameters as we want.
+   => Just we need to add /parameters/parameters/.......
