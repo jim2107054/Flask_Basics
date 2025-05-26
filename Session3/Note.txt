@@ -1,0 +1,5 @@
+1. render_template => invoke or show that template.
+2. To use jinja we need {{}}
+3. Template_inheritance => we will make a common layout for all the page. and use them in the required pages.
+   => if we need to use this common file in any others file, we need to write,
+      {% extends "commonFileName" %} 
