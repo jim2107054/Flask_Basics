@@ -1,0 +1,10 @@
+1. Redirect user from one function to another, we have a function in flask called "redirect"
+
+2. So which url we are redirecting, for that we have a function called "url_for". in this we need to give the function name, where we want to redirecting. example: url_for(funtion_name)
+
+3. To pass any value we need to pass them in key=value pair. 
+   -> url_for(function_name, key=value, key=value, ......)
+       function_name = which funtion we are need to redirecting.
+       key = a variable name, we need to use the same variable name in the "function_name" function where we are redirecting.
+       value = we are pass the value that we are trying to send.
+4. 
